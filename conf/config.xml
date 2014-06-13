@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<!-- WEB SERVER META DATA -->
+<webserver
+    title="Morgan's Web Server"
+    date="October 2013"
+    author="Morgan McCoy"
+>
+
+<!-- DEFAULT DOCUMENTS -->
+<!-- OS X style -->
+<context defaultDocument="/Users/morganmccoy/web-server/index.html"></context> 
+
+<!-- DOCUMENT ROOT -->
+<!-- OS X style -->
+<context documentRoot="/Users/morganmccoy/web-server"></context>
+
+<!-- LOG FILE -->
+<!-- OS X style -->
+<logfile log="./logs/log.txt"></logfile> 
+
+</webserver>
